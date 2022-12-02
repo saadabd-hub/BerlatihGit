@@ -1,2 +1,3 @@
 Nama : Abdullah Saad
 Stack : Backend
+Deskripsi : Programming itu seru dan menarik
