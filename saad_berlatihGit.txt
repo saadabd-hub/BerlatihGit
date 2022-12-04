@@ -2,4 +2,5 @@ Nama : Abdullah Saad
 Stack : Backend
 Hobi : Membaca
 Deskripsi : Programming itu seru dan menarik
+Komputer B
 Komputer A
